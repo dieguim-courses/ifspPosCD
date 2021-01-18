@@ -1,0 +1,15 @@
+{
+  "name": "codigos",
+  "version": "1.0.0",
+  "description": "Auxilio a resoluçao dos exercicios da prova do processo seletivo para Pos-graduaçao em Ciencia de Dados do IFSP/Campinas",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Assis",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
