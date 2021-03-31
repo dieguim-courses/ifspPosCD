@@ -1,0 +1,29 @@
+Prova: Inglês
+Questão: 04 - Cartoon
+
+Solicito alteração do gabarito ou, na sua impossibilidade, anulação da questão da prova objetiva de Inglês
+que possui o enunciado "In this comic strip by Dilbert Cartoonist, the senior employee suggests the
+addition of Ricky to the team to:". A resposta correta deveria ser "Improve the quantitative results
+by exploiting the evaluation metrics used to define intelligent systems' quality." em vez de "Improve
+their AI system using Ricky's skill-set.".
+
+O segundo quadrinho expõe a motivação do funcionário veterano ao sugerir a inclusão de
+Ricky ao projeto de Inteligência Artificial. Ele argumenta que Ricky diminuiria o parâmetro do que
+constitui inteligência humana, insinuando que a inteligência de Ricky seja abaixo da média. Dessa forma,
+prossegue, seria mais fácil para eles atingirem a "inteligência artificial" (desejada no projeto).
+
+Neste ponto, pode-se inferir que a sugestão é de que Ricky seja incluído como uma entrada no conjunto
+de dados de teste do projeto, e não como um desenvolvedor do mesmo. A partir do rebaixamento do parâmetro
+humano (com a inclusão de Ricky no *dataset*), haveria um rebaixamento da métrica de inteligência no
+geral e, consequentemente, a métrica de sucesso do modelo artificial também seria reduzida (uma vez
+que ela seria medida de forma comparativa à inteligência humana).
+
+Neste sentido, não parece correta a alternativa sinalizada pelo gabarito: "Improve their AI system
+using Ricky's skill-set.". Não há nenhuma menção a habilidades de Ricky por parte da personagem.
+Justamente o contrário é enunciado por ela. Além do que, não é sugerida nenhuma melhora no sistema
+de IA em si.
+
+Parece fazer mais sentido a alternativa "Improve the quantitative results by exploiting the evaluation
+metrics used to define intelligent systems' quality.". Como dito acima, o funcionário sugere que
+Ricky contribuiria diminuindo a expectativa da avaliação de inteligência e, dessa forma, os resultados
+de seu sistema de inteligência artificial melhorariam comparativamente a esta nova métrica rebaixada.
